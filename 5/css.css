@@ -1,0 +1,285 @@
+@charset "UTF-8";
+/**
+ * 
+ * @authors Your Name (you@example.org)
+ * @date    2022-03-23 09:28:05
+ * @version $Id$
+ */
+body {
+   margin: 0;
+ }
+
+ li{
+   position: absolute;
+   list-style: none;
+   left: 515px;
+   top: 238px;
+   font-size: 13px;
+   color: whitesmoke;
+ }
+
+.m-bk {
+  position: absolute;
+  width: 1252px;
+  height: 1204px;
+  background: url()no-repeat;
+    background-size: 75%;
+  opacity: 0.4;
+}
+.m-index {
+    width: 835px;
+    background: #eee;
+    padding-top: 21px;
+    padding-left: 94px;
+}
+
+.m-img {
+    width: 368px;
+    height: 242px;
+    background: #666;
+    float: left;
+}
+.m-new-info {
+    margin: 0 0 0 406px;
+}
+
+.m-tl {
+    margin: 0 0 20px 0;
+}
+
+.m-tl:after {
+    content: '';
+    display: block;
+    clear: both;
+}
+h1 {
+    display: block;
+    font-size: 21px;
+    padding-top: 10px;
+}
+p {
+    width: 338px;
+    height: 99px;
+    padding-top: 25px;
+    word-break: break-all;
+    length: unset;
+    line-height: 23px;
+}
+input[type="text1"] {
+    width: 143px;
+    height: 27px;
+    border:1.5px solid;
+    border-radius:5px;
+    color:#3366ff;
+    background:#3366ff;
+    padding-top: 2px;
+}
+.m-new-info1 {
+    padding-top: 8px;
+    font-size: 24px;
+    font: weight;
+    letter-spacing: 2px;
+    color: #3366ff;
+    padding-left: 2px;
+}
+
+h2 {
+    position: absolute;
+    top: 28px;
+    font-size: 28px;
+    color: #3366ff;
+}
+span3 {
+    color: black;
+    font-size: 17px;
+}
+
+span2 {
+    font-size: 18px;
+}
+input[type="text2"] {
+    width: 105px;
+    height: 23px;
+    border:1.5px solid;
+    border-radius:5px;
+    color:#3366ff;
+    background:#3366ff;
+    padding-top: 1px;
+    position: absolute;
+    left: 733px;
+}
+span4 {
+    position: absolute;
+    color: whitesmoke;
+    left: 746px;
+    font-size:20px;
+}
+h3 {
+    font-size: 10px;
+    color: black;
+    padding-top: 42px;
+    letter-spacing: -1px;
+}
+span5 {}
+
+span6 {
+    padding-left: 55px;
+    color: white;
+    position: absolute;
+}
+
+span7 {
+    padding-left: 14px;
+}
+input[type="text3"] {
+    width: 75px;
+    height: 15px;
+    border:1.5px solid;
+    border-radius: 20px;
+    color:#3366ff;
+    background:#3366ff;
+    padding-top: 0px;
+    padding-left: 1px;
+    margin-left: 24px;
+}
+input[type="text4"] {
+    width: 75px;
+    height: 15px;
+    border:1.5px solid;
+    border-radius: 20px;
+    color:green;
+    background:green;
+    padding-top: 0px;
+    padding-left: 1px;
+    margin-left: 24px;
+}
+h4 {
+    font-size: 10px;
+    color: black;
+    padding-top: 34px;
+    letter-spacing: -1px;
+}
+span8 {
+    padding-left: 46px;
+    color: white;
+    position: absolute;
+}
+h5 {
+    color: #3366ff;
+    padding-top: 20px;
+}
+
+span9 {
+    position: absolute;
+    left: 37px;
+    top: 598px;
+    font-size: 25px;
+}
+
+span10 {
+    position: absolute;
+    font-size: 19px;
+    left: 53px;
+    top: 601px;
+    left: 2;
+}
+
+span11 {
+    position: absolute;
+    font-size: 25px;
+    top: 598px;
+    left: 495px;
+}
+
+span12 {
+    position: absolute;
+    font-size: 19px;
+    left: 511px;
+    top: 600px;
+}
+.m-new-info2 {
+    float: left;
+    width: 280px;
+    height: 350px;
+}
+
+h6 {
+    margin-top: 41px;
+    margin-bottom: 1px;
+    padding-top: 2px;
+    padding-left: 71px;
+    font-size: 19px;
+    width: 20px;
+}
+
+h7 {
+    color: #3366ff;
+    font-size: 33px;
+    font-weight: bold;
+    padding-left: 30px;
+    margin-top: 23px;
+}
+
+h8 {
+    padding-left: -47px;
+    left: 136px;
+    top: 754px;
+    position: absolute;
+}
+
+h9 {
+    position: absolute;
+    left: 149px;
+    top: 776px;
+}
+
+h10 {
+    position: absolute;
+    left: 139px;
+    top: 827px;
+    color: #3366ff;
+}
+input[type="text5"] {
+    width: 317px;
+    height: 50px;
+    border: 1.5px solid;
+    border-radius: 9px;
+    color:#3366ff;
+    background:#3366ff;
+    padding-top: 3px;
+    padding-left: 0px;
+    margin-left: 22px;
+}
+.m-new-info3 {
+    border-left-width: 58px;
+    margin-left: 421px;
+    margin-top: 86px;
+    height: 500px;
+    width: 500px;
+}
+
+.m-new-info3 {}
+
+h11 {
+    position: absolute;
+    left: 590px;
+    top: 766px;
+}
+
+h12 {
+    position: absolute;
+    left: 592px;
+    top: 788px;
+}
+
+h13 {
+    position: absolute;
+    left: 618px;
+    top: 808px;
+}
+h14 {
+    position: absolute;
+    left: 614px;
+    top: 714px;
+    color: whitesmoke;
+}

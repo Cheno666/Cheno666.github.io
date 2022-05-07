@@ -1,0 +1,41 @@
+@charset "UTF-8";
+/**
+ * 
+ * @authors Your Name (you@example.org)
+ * @date    2022-04-19 19:19:22
+ * @version $Id$
+ */
+
+.g-bd {
+  border: 3px solid #333;
+  width: 800px;
+  height: 500px;
+}
+
+.m-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 100px;
+  height: 500px;
+  color: #999;
+}
+
+.m-content.hide {
+  display: none;
+}
+
+.m-nav {
+  display: flex;
+}
+
+.u-tab {
+  height: 50px;
+  width: 60px;
+  border: 1px solid #333;
+}
+
+.u-tab.focus {
+  background: #999;
+}
+

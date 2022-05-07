@@ -1,0 +1,328 @@
+@charset "UTF-8";
+
+/**
+*
+* @authors Your Name (you@example.org)
+* @date    2022-04-25 19:50:23
+* @version $Id$
+*/
+.container-fluid.m-top {
+    background-color: rgb(0 194 175);
+    height: 50px;
+}
+
+.col-xs-1.m-top-le {
+    padding-top: 10px;
+    color: rgb(0 165 149);
+}
+
+input#exampleInputEmail1 {
+    background-color: rgb(0 165 149);
+    margin-top: 8px;
+    font-color: white;
+    color: whitesmoke;
+}
+
+i.search.fa.fa-search {
+    position: absolute;
+    padding-left: 6px;
+    padding-top: 7px;
+    font-size: 20px;
+    color: white;
+}
+
+select.form-control.m-top-le-select {
+    background-color: rgb(0 165 149);
+    color: white;
+}
+
+i.user.fa.fa-user {
+    color: white;
+    font-size: 30px;
+    padding-top: 5px;
+}
+
+.z {
+    height: 10px;
+    color: white;
+    width: 15px;
+    font-size: 10px;
+    padding-left: 5px;
+    padding-bottom: -16px;
+}
+
+div {
+    padding-left: 20px;
+}
+
+.m-bd2-mod1-1 {
+    color: green;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.m-bd2-mod1-2 {
+    color: gray;
+}
+
+.m-bd2-mod1-3 {
+    width: 150px;
+    height: 150px;
+    background-color: gray;
+    margin-left: 20px;
+}
+
+.m-bd2-mod2-1 {
+    color: red;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.m-bd2-mod2-2 {
+    color: grey;
+}
+
+.container-fluid.m-bd2-mod2-3 {
+    width: 90px;
+    height: 90px;
+    background-color: grey;
+    margin: -45px 0 0 290px;
+}
+
+.container-fluid.m-bd2 {
+    margin-top: 15px;
+    border-top: 2px;
+}
+
+.container-fluid.m-bd2 {
+}
+
+.m-bd2-mod3-mod1-1 {
+    color: hotpink;
+    font-size: 20px;
+    font-weight: bolder;
+    padding: 0px;
+}
+
+.m-bd2-mod3-mod1-2 {
+    width: 70px;
+    height: 70px;
+    background-color: gray;
+    margin-left: 30px;
+}
+
+.m-bd2-mod3-mod2-1 {
+    color: darkorange;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.m-bd2-mod3-mod2-2 {
+    color: gray;
+}
+
+.m-bd2-mod3-mod2-3 > span {
+    background: black;
+    color: white;
+    font-size: 20px;
+}
+
+.m-bd2-mod3-mod2-3 {
+    margin-top: 20px;
+}
+
+.m-bd1::after {
+    background: rgb(241, 239, 237);
+    height: 20px;
+    display: block;
+}
+
+.m-bd2::after {
+    background: rgb(241, 239, 237);
+    height: 20px;
+    display: block;
+}
+
+.col-xs-6.col-sm-5.m-bd2-mod1 {
+    border-right: grey solid 2px;
+}
+
+.col-xs-6.col-sm-7.m-bd2-mod2 {
+    border-bottom: gray solid 2px;
+    padding-bottom: 5px;
+}
+
+.col-xs-6.col-sm-6.m-bd2-mod3-mod1 {
+    border-right: gray solid 2px;
+}
+
+.col-xs-6.col-sm-6.m-bd3-mod1 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.col-xs-6.col-sm-6.m-bd3-mod2 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.m-bd3-mod1-1 {
+    font-size: 20px;
+    font-weight: bolder;
+    color: orangered;
+}
+
+.m-bd3-mod1-2 {
+    color: gray;
+}
+
+.m-bd3-mod1-3 {
+    width: 90px;
+    height: 90px;
+    background-color: gray;
+    margin: -50px 0 0 250px;
+}
+
+.col-xs-6.col-sm-6.m-bd3-mod1 {
+    border-right: grey solid 2px;
+}
+
+.m-bd3-mod2-1 {
+    font-size: 20px;
+    font-weight: bolder;
+    color: lightcoral;
+}
+
+.m-bd3-mod2-2 {
+    color: gray;
+}
+
+.m-bd3-mod2-3 {
+    width: 90px;
+    height: 90px;
+    background-color: gray;
+    margin: -50px 0 0 250px;
+}
+
+.m-bd3::after {
+    height: 20px;
+    background: rgb(241, 239, 237);
+    display: block;
+}
+
+.col-xs-6.col-sm-12.m-bd4-mod1 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-bottom: gray solid 1px;
+}
+
+.m-bd4-mod1-1 {
+    font-size: 20px;
+    font-weight: bolder;
+    color: darksalmon;
+}
+
+.m-mod5-mod1-1 {
+    height: 130px;
+    width: 130px;
+    background: gray;
+    margin: 20px 0px 28px -8px;/* padding-left: 20px; */
+}
+
+.m-bd5-order {
+    width: 40px;
+    height: 31px;
+    line-height: 15px;
+    text-align: center;
+    color: white;
+    font-size: 12px;
+    transform: rotate(45deg);
+    position: absolute;
+    z-index: 999;
+    margin: -150px 0 0 0;
+}
+
+.m-bd5-order-1 {
+    width: 0;
+    height: 0px;
+    border: 44px solid;
+    border-color: transparent transparent rgb(0, 194, 175) transparent;
+    position: absolute;
+    margin: -194px 0 0 -54px;
+    transform: rotate(-45deg);
+}
+
+.m-bd5-order-2 {
+    width: 0;
+    height: 0px;
+    border: 24px solid;
+    border-color: transparent transparent grey transparent;
+    position: absolute;
+    margin: -174px 0 0 -34px;
+    transform: rotate(-45deg);
+}
+
+.m-mod4-mod1-2 {
+    font-size: 20px;
+    font-weight: bolder;
+    color: gray;
+}
+
+.m-mod4-mod1-3 {
+    color: gray;
+}
+
+.col-xs-15.col-md-10 {
+    margin-top: 25px;
+}
+
+span.m-mod4-mod1-4-1 {
+    font-size: 30px;
+    font-weight: bolder;
+    color: rgb(0 195 176);
+}
+
+.m-mod4-mod1-4 {
+    padding-top: 25px;
+}
+
+span.m-mod4-mod1-4-2 {
+    color: rgb(0 195 176);
+}
+
+span.m-mod4-mod1-4-3 {
+    border: #ff9800 solid 1px;
+    color: #ff9800;
+    margin-left: 20px;
+}
+
+span.m-mod4-mod1-4-4 {
+    margin-left: 338px;
+}
+
+.container-fluid.m-bd5-mod1 {
+    border-bottom: gray solid 1px;
+}
+
+span.m-mod4-mod1-4-5 {
+    color: gray;
+    padding-left: 10px;
+}
+
+.container-fluid.m-bd6 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: lightblue;
+}
+
+.m-bd6-mod1-1 {
+    font-size: 20px;
+    font-weight: bolder;
+    color: rgb(0 195 176);
+}
+
+.col-xs-6.col-sm-6.m-bd6-mod2\>.\<div.class\= {
+    text-align: right;
+    font-size: 20px;
+    color: rgb(0 195 176);
+}
