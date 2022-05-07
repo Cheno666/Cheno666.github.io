@@ -1,0 +1,42 @@
+/**
+ * 
+ * @authors Your Name (you@example.org)
+ * @date    2022-05-07 12:28:47
+ * @version $Id$
+ */
+document.getElementById("p1").onclick=function(){
+	 window.location.assign("https://htmlpreview.github.io/?https://github.com/Cheno666/Cheno666.github.io/blob/main/2/2.html"); 
+}
+document.getElementById("p2").onclick=function(){
+	 window.location.assign("https://htmlpreview.github.io/?https://github.com/Cheno666/Cheno666.github.io/blob/main/4/css.html"); 
+}
+document.getElementById("p3").onclick=function(){
+	 window.location.assign("https://htmlpreview.github.io/?https://github.com/Cheno666/Cheno666.github.io/blob/main/5/html.html"); 
+}
+document.getElementById("p4").onclick=function(){
+	 window.location.assign("https://htmlpreview.github.io/?https://github.com/Cheno666/Cheno666.github.io/blob/main/6/html1.html"); 
+}
+document.getElementById("p5").onclick=function(){
+	 window.location.assign("https://htmlpreview.github.io/?https://github.com/Cheno666/Cheno666.github.io/blob/main/6/html2.html"); 
+}
+document.getElementById("p6").onclick=function(){
+	 window.location.assign("https://htmlpreview.github.io/?https://github.com/Cheno666/Cheno666.github.io/blob/main/6/html3.html"); 
+}
+document.getElementById("p7").onclick=function(){
+	 window.location.assign("https://htmlpreview.github.io/?https://github.com/Cheno666/Cheno666.github.io/blob/main/7/html.html"); 
+}
+document.getElementById("p8").onclick=function(){
+	 window.location.assign("https://htmlpreview.github.io/?https://github.com/Cheno666/Cheno666.github.io/blob/main/8/ex1/html.html"); 
+}
+document.getElementById("p9").onclick=function(){
+	 window.location.assign("https://htmlpreview.github.io/?https://github.com/Cheno666/Cheno666.github.io/blob/main/8/ex2/html.html"); 
+}
+document.getElementById("p10").onclick=function(){
+	 window.location.assign("https://htmlpreview.github.io/?https://github.com/Cheno666/Cheno666.github.io/blob/main/8/ex3/html.html"); 
+}
+document.getElementById("p11").onclick=function(){
+	 window.location.assign("https://htmlpreview.github.io/?https://github.com/Cheno666/Cheno666.github.io/blob/main/9/html1.html"); 
+}
+document.getElementById("p12").onclick=function(){
+	 window.location.assign("https://htmlpreview.github.io/?https://github.com/Cheno666/Cheno666.github.io/blob/main/9/html2.html"); 
+}
